@@ -11,6 +11,6 @@ janusReader
 
 Python reader for JANUS data.
 
-Current version 0.1.0
+Current version **0.1.0.dev.2**
 
 For any information or add repositories, please, contact Pasquale Palumbo or Romolo Politi
