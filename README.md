@@ -12,6 +12,6 @@ JANUS will have 13 filters, a 1.3 degree field of view, and spatial resolution u
 
 Python reader for JANUS data.
 
-Current version **0.4.1**
+Current version **0.10.1**
 
 For any information or add repositories, please, contact Pasquale Palumbo or Romolo Politi
