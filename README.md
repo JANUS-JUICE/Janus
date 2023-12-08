@@ -14,4 +14,14 @@ Python reader for JANUS data.
 
 Current version **0.10.1**
 
+### [JUICE SOC moon-coverage](https://moon-coverage.univ-nantes.fr)
+
+Python library to visualize JUICE instruments surface coverage on Jupiter's moons.
+
+[![Example of JANUS default footprints during Ganymede 2G2 flyby.](https://moon-coverage.univ-nantes.fr/en/latest/_images/959c358aba7a5653fffc11ea930c85e73f03846bc0b1209a7c41ac114f8201b6.png)](https://moon-coverage.univ-nantes.fr/en/0.11.0/gallery/trajectory/janus_fov.html)
+
+Current version **0.11.0**
+
+---
+
 For any information or add repositories, please, contact Pasquale Palumbo or Romolo Politi
